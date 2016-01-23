@@ -1,1 +1,1 @@
-# loader-application
+# loader-module
