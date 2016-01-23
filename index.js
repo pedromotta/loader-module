@@ -4,7 +4,7 @@ var restClient = require('./lib/rest-client');
 var LoaderModule = function() {
 
   this.helloWorld = function() {
-    return 'Hello, module!';
+    return 'Hello, module! - v2';
   };
 
   this.get = function(param, callback) {
