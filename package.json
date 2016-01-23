@@ -1,0 +1,9 @@
+{
+  "name": "loader-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "dependencies": {
+    "request": "^2.67.0"
+  }
+}
